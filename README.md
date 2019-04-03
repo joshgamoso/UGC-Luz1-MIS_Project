@@ -1,9 +1,9 @@
 # UGC-Luz1-MIS_Project
-MIS Inventory System - programmed in Python, the system is used to store list of items of the department.
+MIS Inventory System
+
+The program is written in Python 3.4 using TKinter GUI library, it is a windows form connected to a MySQL database.
 
 System requirements:
-
-install the following setups:
 
 1. python 3.4
 2. XAMPP
