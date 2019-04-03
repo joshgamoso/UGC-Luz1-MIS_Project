@@ -1,7 +1,7 @@
 # UGC-Luz1-MIS_Project
 MIS Inventory System
 
-The program is written in Python 3.4 using TKinter GUI library, it is a windows form connected to a MySQL database.
+The program is written in Python 3.4 using TKinter GUI library, it is a windows form connected to MySQL database.
 
 System requirements:
 
